@@ -59,12 +59,9 @@ I am a **Telecommunications** student with a passion for **software development*
       <p><i>A Java networking project developed as part of my academic coursework to explore network communication and programming concepts.</i></p>
     </td>
   </tr>
-  <tr>
-      <td width="50%" valign="center">
-        <p>**Technology:** ` Java `</p>
-    </td>
-  </tr>
 </table>
+
+**Technology:** ` Java `
 
 ---
 
@@ -74,7 +71,7 @@ A software project developed with Python for hiding video data inside an image u
 
 The project focuses on data hiding, image processing, and video processing.
 
-**Technology:** Python
+**Technology:** ` Python `
 
 ---
 
