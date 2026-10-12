@@ -41,7 +41,7 @@ I am a **Telecommunications** student with a passion for **software development*
   <tr>
     <td width="50%" valign="top">
        <h3>
-          <img src="./assets/icons/icon-cisco.png" width="25" alt="Cisco">
+          <img src="./assets/icons/icon-cisco.png" width="25" alt="">
           <strong>Cisco Networking</strong><br>
        </h3>
        <p> <i> Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.</i></p>
