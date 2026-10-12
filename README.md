@@ -35,7 +35,7 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ### TsenaZebu
 
-A web marketplace project designed to allow users to buy and sell products through an online platform.
+<i> A web marketplace project designed to allow users to buy and sell products through an online platform </i>.
 
 **Technologies:** ` React `, ` Next.js `, ` Node.js `, ` MongoDB `
 
