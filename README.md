@@ -1,8 +1,6 @@
-#### I'm Onjaniaina Safidy RANDRIANARIMANANA 
+#### Hi !! I'm Onjaniaina Safidy RANDRIANARIMANANA 
 
-I am a software developer interested in web development, application development, and software engineering.
-
-I enjoy building practical projects, learning new technologies, and improving my technical skills through real-world development.
+I am a Telecommunications student with a passion for software development, combining academic learning with independent research and continuous self-improvement.
 
 ---
 
