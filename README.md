@@ -67,9 +67,9 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ### Video Steganography in an Image
 
-A software project developed with Python for hiding video data inside an image using digital steganography techniques.
+<i>A software project developed with Python for hiding video data inside an image using digital steganography techniques.
 
-The project focuses on data hiding, image processing, and video processing.
+The project focuses on data hiding, image processing, and video processing.</i>
 
 **Technology:** ` Python `
 
