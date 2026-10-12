@@ -1,6 +1,6 @@
-#### Hi !! I'm Onjaniaina Safidy RANDRIANARIMANANA 
+<h1>Hi !! I'm Onjaniaina Safidy RANDRIANARIMANANA <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1> 
 
-I am a Telecommunications student with a passion for software development, combining academic learning with independent research and continuous self-improvement.
+I am a **Telecommunications** student with a passion for **software development**, combining academic learning with independent research and continuous self-improvement.
 
 ---
 
