@@ -51,9 +51,9 @@ I am a **Telecommunications** student with a passion for **software development*
        </h3>
        <p> <i> Designing and configuring network topologies using GNS3.</i></p>
     </td>
+  </tr>
+</table>
 <p align="left">
-  
- 
   <img src="https://img.shields.io/badge/VoIP-2E8B57?style=for-the-badge&logoColor=white" alt="VoIP" />
   <img src="https://img.shields.io/badge/Zoiper-5B4B8A?style=for-the-badge&logoColor=white" alt="Zoiper" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
