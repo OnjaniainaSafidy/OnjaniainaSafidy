@@ -41,13 +41,15 @@ I am a **Telecommunications** student with a passion for **software development*
   <tr>
     <td width="50%" valign="top">
        <h3>
+          <img src="https://api.iconify.design/simple-icons/cisco.svg?color=%231BA0D7" width="28" height="28" align="absmiddle" alt="Cisco" />
           <strong>Cisco Networking</strong><br>
        </h3>
        <p> <i> Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.</i></p>
     </td>
     <td width="50%" valign="top">
        <h3>
-            <strong>Network Simulation</strong>
+          <img src="https://api.iconify.design/mdi/lan.svg?color=%232E7D32" width="28" height="28" align="absmiddle" alt="Network Simulation" />
+          <strong>Network Simulation</strong>
        </h3>
        <p> <i> Designing and configuring network topologies using GNS3.</i></p>
     </td>
@@ -55,13 +57,15 @@ I am a **Telecommunications** student with a passion for **software development*
   <tr>
     <td width="50%" valign="top">
        <h3>
-          <strong>VoIP & IP Telephony</strong><br>
+          <img src="https://api.iconify.design/mdi/phone-voip.svg?color=%23F57C00" width="28" height="28" align="absmiddle" alt="VoIP" />
+          <strong>VoIP &amp; IP Telephony</strong><br>
        </h3>
        <p> <i>Practical learning with Zoiper in a Linux environment.</i></p>
     </td>
     <td width="50%" valign="top">
        <h3>
-            <strong>Linux Networking</strong>
+          <img src="https://api.iconify.design/simple-icons/linux.svg?color=%23FCC624" width="28" height="28" align="absmiddle" alt="Linux" />
+          <strong>Linux Networking</strong>
        </h3>
        <p> <i>Using Xubuntu for network configuration, troubleshooting, and software development.</i></p>
     </td>
