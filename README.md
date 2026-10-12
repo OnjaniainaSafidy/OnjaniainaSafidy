@@ -35,15 +35,15 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ### TsenaZebu
 
-<i> A web marketplace project designed to allow users to buy and sell cattle across Madagascar through an online platform </i>.
+<i>A web marketplace project designed to allow users to buy and sell cattle across Madagascar through an online platform</i>.
 
 **Technologies:** ` React `, ` Next.js `, ` Node.js `, ` MongoDB `
 
 ---
 
-### Java Game
+### Java Game | Java Network
 
-A game development project created with Java as part of my programming practice and application development.
+<i>A small Java-based shooting game developed as a mini-project to practice programming skills</i>
 
 [**Technology:**] ` Java `
 
