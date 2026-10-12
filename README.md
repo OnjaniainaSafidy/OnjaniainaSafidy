@@ -41,7 +41,7 @@ I am a **Telecommunications** student with a passion for **software development*
   <tr>
     <td width="50%" valign="top">
        <h3>
-          <img src="./assets/icons/icon-cisco.png" width="25" alt="">
+          <img src="https://icon-icons.com/fr/icone/cisco-logo/169399" width="25" alt="">
           <strong>Cisco Networking</strong><br>
        </h3>
        <p> <i> Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.</i></p>
@@ -55,6 +55,7 @@ I am a **Telecommunications** student with a passion for **software development*
   </tr>
 </table>
 <p align="left">
+  <img src="https://icon-icons.com/fr/icone/cisco-logo/169399" width="25" alt="">
   <img src="https://img.shields.io/badge/VoIP-2E8B57?style=for-the-badge&logoColor=white" alt="VoIP" />
   <img src="https://img.shields.io/badge/Zoiper-5B4B8A?style=for-the-badge&logoColor=white" alt="Zoiper" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
