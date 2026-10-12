@@ -37,16 +37,30 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ### 🌐 Networking & Telecommunications
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+       <h3>
+          <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> **Cisco Networking:** 
+       </h3>
+       <p> <i> Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.</i></p>
+    </td>
+    <td width="50%" valign="top">
+       <h3>
+          <img src="https://img.shields.io/badge/GNS3-008FC7?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" /> **Network Simulation** 
+       </h3>
+       <p> <i> Designing and configuring network topologies using GNS3.</i></p>
+    </td>
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/GNS3-008FC7?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+  
+ 
   <img src="https://img.shields.io/badge/VoIP-2E8B57?style=for-the-badge&logoColor=white" alt="VoIP" />
   <img src="https://img.shields.io/badge/Zoiper-5B4B8A?style=for-the-badge&logoColor=white" alt="Zoiper" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-- **Cisco Networking:** Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.
-- **Network Simulation:** Designing and configuring network topologies using GNS3.
+- 
+-  
 - **VoIP & IP Telephony:** Practical learning with Zoiper in a Linux environment.
 - **Linux Networking:** Using Xubuntu for network configuration, troubleshooting, and software development.
 
