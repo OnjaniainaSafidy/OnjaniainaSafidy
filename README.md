@@ -58,7 +58,9 @@ I am a **Telecommunications** student with a passion for **software development*
       </h3>
       <p><i>A Java networking project developed as part of my academic coursework to explore network communication and programming concepts.</i></p>
     </td>
-    <td width="50%" valign="center">
+  </tr>
+  <tr>
+      <td width="50%" valign="center">
         <p>**Technology:** ` Java `</p>
     </td>
   </tr>
