@@ -1,6 +1,4 @@
-#### I'm RANDRIANARIMANANA Onjaniaina Safidy
-
-### Software Developer | Web Development
+#### I'm Onjaniaina Safidy RANDRIANARIMANANA 
 
 I am a software developer interested in web development, application development, and software engineering.
 
