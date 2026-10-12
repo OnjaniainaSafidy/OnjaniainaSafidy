@@ -33,9 +33,9 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ---
 
-## Projects
+<h2>Projects</h2>
 
-## 🌐 Networking & Telecommunications
+### 🌐 Networking & Telecommunications
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
@@ -50,14 +50,14 @@ I am a **Telecommunications** student with a passion for **software development*
 - **VoIP & IP Telephony:** Practical learning with Zoiper in a Linux environment.
 - **Linux Networking:** Using Xubuntu for network configuration, troubleshooting, and software development.
 
-### TsenaZebu
+ <h3>TsenaZebu</h3>
 
 <i>A web marketplace project designed to allow users to buy and sell cattle across Madagascar through an online platform</i>.
 
 **Technologies:** ` React `, ` Next.js `, ` Node.js `, ` MongoDB `
 
 ---
-<h2>Java Projects</h2>
+<h3>Java Projects</h3>
 
 <table>
   <tr>
