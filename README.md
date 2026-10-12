@@ -68,7 +68,7 @@ I am a **Telecommunications** student with a passion for **software development*
   </tr>
 </table>
 
- <h3>TsenaZebu</h3>
+<h3>TsenaZebu</h3>
 
 <i>A web marketplace project designed to allow users to buy and sell cattle across Madagascar through an online platform</i>.
 
