@@ -45,22 +45,18 @@ I am a **Telecommunications** student with a passion for **software development*
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 Java Shooting Game</h3>
+      <h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java">
+        Java Shooting Game
+      </h3>
       <p>A small Java-based shooting game developed as a mini-project to practice programming skills.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Java Networking</h3>
+      <h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java">
+        Java Networking
+      </h3>
       <p>A Java networking project developed as part of my academic coursework to explore network communication and programming concepts.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 Java Game</h3>
-      <p>A practical project focused on game logic and basic application development using Java.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 Network Communication</h3>
-      <p>An academic project exploring communication between applications through computer networks using Java.</p>
     </td>
   </tr>
 </table>
