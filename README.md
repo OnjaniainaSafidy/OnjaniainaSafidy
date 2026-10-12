@@ -41,7 +41,8 @@ I am a **Telecommunications** student with a passion for **software development*
   <tr>
     <td width="50%" valign="top">
        <h3>
-          <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> **Cisco Networking:** 
+          <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> 
+          Cisco Networking 
        </h3>
        <p> <i> Practical experience configuring Cisco routers, IP addressing, routing, switching, and GLBP in simulated environments.</i></p>
     </td>
@@ -59,8 +60,6 @@ I am a **Telecommunications** student with a passion for **software development*
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-- 
--  
 - **VoIP & IP Telephony:** Practical learning with Zoiper in a Linux environment.
 - **Linux Networking:** Using Xubuntu for network configuration, troubleshooting, and software development.
 
