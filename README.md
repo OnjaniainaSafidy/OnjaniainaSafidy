@@ -40,7 +40,7 @@ I am a **Telecommunications** student with a passion for **software development*
 **Technologies:** ` React `, ` Next.js `, ` Node.js `, ` MongoDB `
 
 ---
-<h2>☕ Java Projects</h2>
+<h2>Java Projects</h2>
 
 <table>
   <tr>
@@ -49,22 +49,20 @@ I am a **Telecommunications** student with a passion for **software development*
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java">
         Java Shooting Game
       </h3>
-      <p>A small Java-based shooting game developed as a mini-project to practice programming skills.</p>
+      <p><i>A small Java-based shooting game developed as a mini-project to practice programming skills.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="Java">
         Java Networking
       </h3>
-      <p>A Java networking project developed as part of my academic coursework to explore network communication and programming concepts.</p>
+      <p><i>A Java networking project developed as part of my academic coursework to explore network communication and programming concepts.</i></p>
+    </td>
+    <td width="50%" valign="center">
+        <p>**Technology:** ` Java `</p>
     </td>
   </tr>
 </table>
-### Java Game | Java Network
-
-<i>A small Java-based shooting game developed as a mini-project to practice programming skills</i>
-
-[**Technology:**] ` Java `
 
 ---
 
