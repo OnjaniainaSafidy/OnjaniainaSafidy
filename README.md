@@ -104,7 +104,9 @@ I am a **Telecommunications** student with a passion for **software development*
 
 ---
 
-### Video Steganography in an Image
+<h3>Video Steganography in an Image</h3>
+
+<h4><strong>VID STEG</strong></h4>
 
 <i>A software project developed with Python for hiding video data inside an image using digital steganography techniques.
 
