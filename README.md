@@ -72,7 +72,7 @@ I am a **Telecommunications** student with a passion for **software development*
   </tr>
 </table>
 <h3>Marketing</h3>
-<h4>TsenaZebu</h4>(https://github.com/OnjaniainaSafidy/TsenaZebu)
+<h4>TsenaZebu</h4>https://github.com/OnjaniainaSafidy/TsenaZebu
 
 <i>A web marketplace project designed to allow users to buy and sell cattle across Madagascar through an online platform</i>.
 
