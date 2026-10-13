@@ -116,6 +116,7 @@ The project focuses on data hiding, image processing, and video processing.</i>
 
 ## Currently Learning
 
+- Telecommunication engineering
 - Advanced web development
 - React and Next.js
 - Backend development with Node.js
