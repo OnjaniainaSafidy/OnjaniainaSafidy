@@ -116,6 +116,7 @@ The project focuses on data hiding, image processing, and video processing.</i>
 **Technology:** ` Python `
 
 ---
+
 <h3>
   <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/desktop.svg" width="25"/>
   Server Monitoring Dashboard
