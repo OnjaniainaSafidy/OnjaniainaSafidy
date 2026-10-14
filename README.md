@@ -116,7 +116,10 @@ The project focuses on data hiding, image processing, and video processing.</i>
 **Technology:** ` Python `
 
 
- <h3><img src="https://unicode.org/emoji/charts/full-emoji-list.html" width="25" alt="Computer"> Server Monitoring Dashboard </h3>
+<h3>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/desktop.svg" width="25"/>
+  Server Monitoring Dashboard
+</h3>
 
 A lightweight server monitoring application built with Node.js and Express.js.
 It provides a web dashboard and JSON API endpoints to monitor server health,
