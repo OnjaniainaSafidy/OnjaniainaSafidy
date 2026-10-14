@@ -115,7 +115,7 @@ The project focuses on data hiding, image processing, and video processing.</i>
 
 **Technology:** ` Python `
 
-
+---
 <h3>
   <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/desktop.svg" width="25"/>
   Server Monitoring Dashboard
@@ -123,7 +123,7 @@ The project focuses on data hiding, image processing, and video processing.</i>
 
 A lightweight server monitoring application built with Node.js and Express.js.
 It provides a web dashboard and JSON API endpoints to monitor server health,
-memory usage, CPU activity, and disk storage.
+memory usage, CPU activity, and disk storage. To view, click this <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/72x72/1f449.png" width="25"/> [**Server Monitoring Dashboard**](https://github.com/OnjaniainaSafidy/p-render)
 
 ---
 
